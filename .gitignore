@@ -302,6 +302,9 @@ ckpts/text_encoder/byt5-small/
 # Environment files
 scripts/env.sh
 
+# Generated files
+generated_image.png
+
 # Keep specific files
 !assets/*.png
 
